@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Introduction into machine learning',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Microcontrollers',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A microcontroller is a small computer on a single integrated circuit containing a processor core, memory, and programmable input/output peripherals.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'TinyML',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        TinyML is a subset of machine learning that is designed to run on resource-constrained devices. Devices that are considered resource-constrained include microcontrollers, mobile phones, and wearables.
+        Our goal is to make TinyML accessible to everyone.
       </>
     ),
   },
