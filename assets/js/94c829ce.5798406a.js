@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktiny_ml=self.webpackChunktiny_ml||[]).push([[3444],{8880:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/TinyML/blog/tags/hello","allTagsPath":"/TinyML/blog/tags","count":2}')}}]);
